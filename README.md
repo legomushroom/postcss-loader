@@ -4,7 +4,7 @@
      title="Philosopher’s stone, logo of PostCSS"
      src="http://postcss.github.io/postcss/logo.svg">
 
-[PostCSS] loader for [webpack] to postprocesses your CSS with [PostCSS plugins].
+[PostCSS] loader for [webpack] to postprocess your CSS with [PostCSS plugins].
 
 <a href="https://evilmartians.com/?utm_source=postcss-loader">
 <img src="https://evilmartians.com/badges/sponsored-by-evil-martians.svg" alt="Sponsored by Evil Martians" width="236" height="54">
